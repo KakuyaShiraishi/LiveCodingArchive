@@ -3,10 +3,10 @@
 「RDBMSを用いたライブコーディングのアーカイヴシステム」のライブラリの一部
   
   
+[ライブラリ](https://github.com/KakuyaShiraishi/LiveCodingArchive/blob/master/MySqliteLib.h)  
+      
     
-    
-  
-    
+      
   
   
 ## Open database
