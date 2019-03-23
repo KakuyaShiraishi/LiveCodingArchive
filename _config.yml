@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+twitter:
+  username: kakuyabeat
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /logo.jpg
+        height: 630
+        width: 1200
