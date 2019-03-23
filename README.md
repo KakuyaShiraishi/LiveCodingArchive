@@ -1,7 +1,7 @@
 # LiveCodingArchive
 年次制作  
-「RDBMSを用いたライブコーディングのアーカイヴシステム」のライブラリの一部
-  
+「RDBMSを用いたライブコーディングのアーカイヴシステム」のライブラリの一部  
+openFrameworks用  
   
 [ソース](https://github.com/KakuyaShiraishi/LiveCodingArchive/blob/master/MySqliteLib.h)  
       
